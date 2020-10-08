@@ -35,3 +35,9 @@ Creature
 
 Mechanimal  
 : Same as animal for all legal purposes, but for human readability, this word is the preferred way to refer to all preconagents which are non-biological, such as robotic pets.
+
+Fictagent  
+: A fictional legal entity is not actually conscious but represents the agency of some number of indepagents.
+
+Corpagent  
+: A type of fictagent which is commonly used for carrying out business activities.
