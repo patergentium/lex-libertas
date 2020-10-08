@@ -9,6 +9,7 @@ Indepagent
 
 Preconagent  
 : Pre-Maturity Conscious Agent. An indeperson whose foreknowledge, experience and powers of reasoning are lower than the level of sui juris.
+- The prefix here, "pre-" does not have a temporal meaning, but merely a meaning of degree. It denotes the general category of conagents which by nature can be at sui juris, but are not at the level of sui juris, whether because of youth, senescence, accident/injury or any other reason.
 
 Pueragent  
 : Puerile Pre-Maturity Conscious Agent. A preconagent who is expected to eventually develop to the level of sui juris. Most commonly children.
